@@ -1,0 +1,6 @@
+{
+  "name": "UiTM Academic Calendar Chatbot",
+  "description": "An intelligent full-stack AI-powered chatbot assistant loaded with official UiTM Academic Calendar schedules to help students instantly query registration dates, lectures, breaks, exams, and semester periods.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
